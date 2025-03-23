@@ -7,7 +7,6 @@ Also check online public RPC finder - https://solana.rpc-finder.com/
 
 * [Description](#what-exactly-does-the-script-do)
 
-* [How to update](#update)
 
 ## What exactly does the script do:  
 1. Finds all available RPCs  
